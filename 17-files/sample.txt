@@ -1,0 +1,7 @@
+Hello, World!
+This is a sample text file.
+It contains multiple lines of text.
+We'll use this for reading examples.
+
+Line 5: Python file handling is fun!
+Line 6: Always remember to close your files.
